@@ -1,1 +1,1 @@
-import './resturants_dummy_data.mjs';
+import './resturants_dummy_data';

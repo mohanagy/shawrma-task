@@ -1,5 +1,5 @@
 import seeder from 'mongoose-seed';
-import config from '../config/config.mjs';
+import config from '../config/config';
 
 const db = config.mongoose.url;
 
